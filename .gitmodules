@@ -1,0 +1,3 @@
+[submodule "SongsKingdom"]
+	path = SongsKingdom
+	url = git@github.com:ChebotarDmytro/SongsKingdom.git
